@@ -39,3 +39,14 @@ Dev Dependencies:
 
    ```bash
    git clone <repository-url>
+
+## Running the Server
+
+To run the server, use one of the following commands:
+
+```bash
+npm run serve
+
+or 
+
+yarn serve

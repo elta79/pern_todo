@@ -1,5 +1,3 @@
-import './App.css'
-
 //components
 import InputToDo from './components/InputToDo'
 import ListToDo from './components/ListToDo'
